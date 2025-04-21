@@ -11,3 +11,15 @@
 ✅ Smart Scheduling: Posts at the best times for higher engagement.
 
 ✅ Performance Insights: Tracks metrics like views, likes, and shares to refine strategies.
+# How Agentic AI Agent Works 🛠️
+# Setup:
+Link your LinkedIn account.
+Define preferences like topics and frequency.
+News Aggregation:
+Sources the latest AI news via APIs.
+Content Generation:
+Summarizes articles and suggests visuals and hashtags.
+Automation:
+Posts content directly to LinkedIn.
+Analytics:
+Monitors and displays engagement stats to inform future posts.
